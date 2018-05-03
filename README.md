@@ -1,4 +1,4 @@
-# README - do it
+# README - don't bother 
 Here's how to use this stupid thing I made.
 
 
